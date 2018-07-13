@@ -2,7 +2,7 @@ import random
 
 from copy import deepcopy
 
-
+print("hello")
 class Matrix:
 
     def __init__(self, nrows, ncols):
